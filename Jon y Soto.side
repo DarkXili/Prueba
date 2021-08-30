@@ -759,9 +759,9 @@
       "targets": [
         ["linkText=Feed de comentarios", "linkText"],
         ["css=#meta-2 li:nth-child(3) > a", "css:finder"],
-        ["xpath=//a[contains(text(),'Feed de comentarios')]", "xpath:link"],
+        ["xpath=//a[contains(text(),'FacebookWeb')]", "xpath:link"],
         ["xpath=//div[@id='meta-2']/ul/li[3]/a", "xpath:idRelative"],
-        ["xpath=//a[contains(@href, 'https://digitalessen.com/restaurante/comments/feed/')]", "xpath:href"],
+        ["xpath=//a[contains(@href, 'https://www.facebook.com/profile.php?id=100063597037912&show_switched_toast=true')]", "xpath:href"],
         ["xpath=//div[6]/ul/li[3]/a", "xpath:position"],
         ["xpath=//a[contains(.,'Feed de comentarios')]", "xpath:innerText"]
       ],
