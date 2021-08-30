@@ -755,9 +755,9 @@
       "id": "822f21d9-d50d-4175-b47f-1f6fe473e6fc",
       "comment": "",
       "command": "click",
-      "target": "linkText=Feed de comentarios",
+      "target": "linkText=FacebookWeb",
       "targets": [
-        ["linkText=Feed de comentarios", "linkText"],
+        ["linkText=FacebookWeb", "linkText"],
         ["css=#meta-2 li:nth-child(3) > a", "css:finder"],
         ["xpath=//a[contains(text(),'FacebookWeb')]", "xpath:link"],
         ["xpath=//div[@id='meta-2']/ul/li[3]/a", "xpath:idRelative"],
